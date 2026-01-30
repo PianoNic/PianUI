@@ -1,7 +1,7 @@
 # PianUI Attribution License
 
 ## Copyright Notice
-Copyright © 2024 PianoNic. All rights reserved.
+Copyright © 2026 PianoNic. All rights reserved.
 
 ## Terms and Conditions
 
