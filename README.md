@@ -10,7 +10,6 @@
 <p align="center">
   <a href="https://github.com/PianoNic/PianUI"><img src="https://badgetrack.pianonic.ch/badge?tag=pianui&label=visits&color=ff6b35&style=flat" alt="visits"/></a>
   <a href="https://github.com/PianoNic/PianUI/blob/main/LICENSE"><img src="https://img.shields.io/github/license/PianoNic/PianUI?color=ff6b35"/></a>
-  <a href="https://github.com/PianoNic/PianUI/releases"><img src="https://img.shields.io/github/v/release/PianoNic/PianUI?include_prereleases&color=ff6b35&label=Latest%20Release"/></a>
 </p>
 
 A clean, lightweight Angular template providing a modern, production-ready foundation for building contemporary web applications. Features built-in theming, responsive design, and Material Design 3 components with full dark/light mode support.
