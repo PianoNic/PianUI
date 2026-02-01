@@ -59,7 +59,7 @@ Failure to comply with the attribution and citation requirements is a violation 
 
 **Summary**: You are free to use, modify, and distribute this template, but you MUST always give credit to PianoNic as the original creator. This attribution requirement cannot be waived or removed.
 
-For more information or to request exceptions, contact the original author at https://github.com/PianoNic
+For more information or to request exceptions, contact the original author at [PianUI](https://github.com/PianoNic)
 
 ---
 

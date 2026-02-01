@@ -9,19 +9,6 @@
     "test": "ng test",
     "apigen": "npx openapi-generator-cli generate"
   },
-  "prettier": {
-    "printWidth": 100,
-    "singleQuote": true,
-    "overrides": [
-      {
-        "files": "*.html",
-        "options": {
-          "parser": "angular"
-        }
-      }
-    ]
-  },
-  "private": true,
   "dependencies": {
     "@angular/cdk": "^21.0.5",
     "@angular/common": "^21.0.6",
