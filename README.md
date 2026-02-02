@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://github.com/PianoNic/PianUI"><img src="https://badgetrack.pianonic.ch/badge?tag=pianui&label=visits&color=ff6b35&style=flat" alt="visits"/></a>
-  <a href="https://github.com/PianoNic/PianUI/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-PianUI_Attribution_License-ff6b35" alt="PianUI Attribution License"/></a>
+  <a href="https://github.com/PianoNic/PianUI/blob/main/LICENSE.md"><img src="https://img.shields.io/badge/license-PianUI_Attribution_License-ff6b35" alt="PianUI Attribution License"/></a>
 </p>
 
 ## 📸 Screenshots
